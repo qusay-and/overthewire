@@ -1,0 +1,3 @@
+use online tool to analyze it 
+https://caesarcipher.org/ciphers/vigenere/decoder
+key is "KEYLENGTH"

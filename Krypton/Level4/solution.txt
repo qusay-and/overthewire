@@ -1,0 +1,6 @@
+use online tool to "guess" the key known the key length is 6
+https://www.dcode.fr/vigenere-cipher
+
+got the key "FREKEY"
+
+and decode the text
